@@ -1,4 +1,4 @@
-class Cleanshot < Formula
+class CleanshotCli < Formula
   desc "CLI for CleanShot X on macOS"
   homepage "https://github.com/XiaofengXie16/cleanshot-cli"
   version "0.1.0"
